@@ -1,0 +1,16 @@
+NDK_Build/gen-libs/hello-jni/libs/arm64-v8a/libhello-jni.so
+NDK_Build/gen-libs/hello-jni/libs/armeabi-v7a/libhello-jni.so
+NDK_Build/gen-libs/hello-jni/libs/x86/libhello-jni.so
+NDK_Build/gen-libs/hello-jni/libs/x86_64/libhello-jni.so
+NDK_Build/gen-libs/hello-jni/obj/local/arm64-v8a/libhello-jni.so
+NDK_Build/gen-libs/hello-jni/obj/local/arm64-v8a/objs/hello-jni/Users/hangyojeong/Dev/android-ndk-study/NDK_Build/gen-libs/hello-jni/__/__/cpp/hello-jni.o
+NDK_Build/gen-libs/hello-jni/obj/local/arm64-v8a/objs/hello-jni/Users/hangyojeong/Dev/android-ndk-study/NDK_Build/gen-libs/hello-jni/__/__/cpp/hello-jni.o.d
+NDK_Build/gen-libs/hello-jni/obj/local/armeabi-v7a/libhello-jni.so
+NDK_Build/gen-libs/hello-jni/obj/local/armeabi-v7a/objs/hello-jni/Users/hangyojeong/Dev/android-ndk-study/NDK_Build/gen-libs/hello-jni/__/__/cpp/hello-jni.o
+NDK_Build/gen-libs/hello-jni/obj/local/armeabi-v7a/objs/hello-jni/Users/hangyojeong/Dev/android-ndk-study/NDK_Build/gen-libs/hello-jni/__/__/cpp/hello-jni.o.d
+NDK_Build/gen-libs/hello-jni/obj/local/x86/libhello-jni.so
+NDK_Build/gen-libs/hello-jni/obj/local/x86/objs/hello-jni/Users/hangyojeong/Dev/android-ndk-study/NDK_Build/gen-libs/hello-jni/__/__/cpp/hello-jni.o
+NDK_Build/gen-libs/hello-jni/obj/local/x86/objs/hello-jni/Users/hangyojeong/Dev/android-ndk-study/NDK_Build/gen-libs/hello-jni/__/__/cpp/hello-jni.o.d
+NDK_Build/gen-libs/hello-jni/obj/local/x86_64/libhello-jni.so
+NDK_Build/gen-libs/hello-jni/obj/local/x86_64/objs/hello-jni/Users/hangyojeong/Dev/android-ndk-study/NDK_Build/gen-libs/hello-jni/__/__/cpp/hello-jni.o
+NDK_Build/gen-libs/hello-jni/obj/local/x86_64/objs/hello-jni/Users/hangyojeong/Dev/android-ndk-study/NDK_Build/gen-libs/hello-jni/__/__/cpp/hello-jni.o.d
