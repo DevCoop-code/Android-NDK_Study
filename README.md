@@ -1,6 +1,11 @@
 # Android NDK Guide
 NDK는 Android에서 C 및 C++ 코드를 사용할 수 있게 해주는 일련의 도구 모음
 
+## Project Structure
+- hello-jni: [Sample]Basic Sample about how to use JNI
+- JNI: [GUIDE]Guide of JNI Grammar
+- NDK_Build: [Build]Build Native Shared Library
+
 ## NDK 및 도구
 앱의 Native code를 컴파일하고 디버깅하기 위한 구성요소
 - <b>Android NDK(Native Development Kit)</b><br> Android에서 C 및 C++ 코드를 사용할 수 있도록 해주는 도구 모음
